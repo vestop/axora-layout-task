@@ -7,11 +7,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vestop/axora-layout.git"
+    "url": "git+https://github.com/vestop/axora-layout-task.git"
   },
   "author": "Javohir Shodiyev",
   "license": "ISC",
-  "homepage": "https:///github.com/vestop/axora-layout",
+  "homepage": "https:///github.com/vestop/axora-layout-task",
   "devDependencies": {
     "browser-sync": "^2.26.7",
     "eslint": "^6.6.0",
