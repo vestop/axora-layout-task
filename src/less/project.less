@@ -1,0 +1,17 @@
+//variables
+@colorYellow: #ffe259;
+
+//mixins
+.ie11(@content) {
+
+  @media all and (-ms-high-contrast: none),
+  (-ms-high-contrast: active) {
+    @content();
+  }
+}
+
+.ie10(@content) {
+  @media screen and (min-width:0\0) {
+    @content();
+  }
+}

@@ -1,0 +1,95 @@
+@font-face {
+  font-family: "FuturaNewBook-Reg";
+  src: url('../fonts/FuturaNewBook-Reg/FuturaNewBook-Reg.eot');
+  src: url('../fonts/FuturaNewBook-Reg/FuturaNewBook-Reg.woff2') format('woff2'),
+      url('../fonts/FuturaNewBook-Reg/FuturaNewBook-Reg.woff') format('woff'),
+      url('../fonts/FuturaNewBook-Reg/FuturaNewBook-Reg.ttf') format('truetype'),
+      url('../fonts/FuturaNewBook-Reg/FuturaNewBook-Reg.svg#WorkSans-Regular') format('svg'),
+      url('../fonts/FuturaNewBook-Reg/FuturaNewBook-Reg.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "FuturaNewHeavy-Reg";
+  src: url('../fonts/FuturaNewHeavy-Reg/FuturaNewHeavy-Reg.eot');
+  src: url('../fonts/FuturaNewHeavy-Reg/FuturaNewHeavy-Reg.woff2') format('woff2'),
+      url('../fonts/FuturaNewHeavy-Reg/FuturaNewHeavy-Reg.woff') format('woff'),
+      url('../fonts/FuturaNewHeavy-Reg/FuturaNewHeavy-Reg.ttf') format('truetype'),
+      url('../fonts/FuturaNewHeavy-Reg/FuturaNewHeavy-Reg.svg#WorkSans-SemiBold') format('svg'),
+      url('../fonts/FuturaNewHeavy-Reg/FuturaNewHeavy-Reg.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "HelveticaNeue-Medium";
+  src: url('../fonts/HelveticaNeue-Medium/HelveticaNeue-Medium.eot');
+  src: url('../fonts/HelveticaNeue-Medium/HelveticaNeue-Medium.woff2') format('woff2'),
+      url('../fonts/HelveticaNeue-Medium/HelveticaNeue-Medium.woff') format('woff'),
+      url('../fonts/HelveticaNeue-Medium/HelveticaNeue-Medium.ttf') format('truetype'),
+      url('../fonts/HelveticaNeue-Medium/HelveticaNeue-Medium.svg#WorkSans-SemiBold') format('svg'),
+      url('../fonts/HelveticaNeue-Medium/HelveticaNeue-Medium.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "HelveticaNeueCyr-Roman";
+  src: url('../fonts/HelveticaNeueCyr-Roman/HelveticaNeueCyr-Roman.eot');
+  src: url('../fonts/HelveticaNeueCyr-Roman/HelveticaNeueCyr-Roman.woff2') format('woff2'),
+      url('../fonts/HelveticaNeueCyr-Roman/HelveticaNeueCyr-Roman.woff') format('woff'),
+      url('../fonts/HelveticaNeueCyr-Roman/HelveticaNeueCyr-Roman.ttf') format('truetype'),
+      url('../fonts/HelveticaNeueCyr-Roman/HelveticaNeueCyr-Roman.svg#WorkSans-SemiBold') format('svg'),
+      url('../fonts/HelveticaNeueCyr-Roman/HelveticaNeueCyr-Roman.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "MuseoSansCyrl-300";
+  src: url('../fonts/MuseoSansCyrl-300/MuseoSansCyrl-300.eot');
+  src: url('../fonts/MuseoSansCyrl-300/MuseoSansCyrl-300.woff2') format('woff2'),
+      url('../fonts/MuseoSansCyrl-300/MuseoSansCyrl-300.woff') format('woff'),
+      url('../fonts/MuseoSansCyrl-300/MuseoSansCyrl-300.ttf') format('truetype'),
+      url('../fonts/MuseoSansCyrl-300/MuseoSansCyrl-300.svg#WorkSans-SemiBold') format('svg'),
+      url('../fonts/MuseoSansCyrl-300/MuseoSansCyrl-300.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "MuseoSansCyrl-500";
+  src: url('../fonts/MuseoSansCyrl-500/MuseoSansCyrl-500.eot');
+  src: url('../fonts/MuseoSansCyrl-500/MuseoSansCyrl-500.woff2') format('woff2'),
+      url('../fonts/MuseoSansCyrl-500/MuseoSansCyrl-500.woff') format('woff'),
+      url('../fonts/MuseoSansCyrl-500/MuseoSansCyrl-500.ttf') format('truetype'),
+      url('../fonts/MuseoSansCyrl-500/MuseoSansCyrl-500.svg#WorkSans-SemiBold') format('svg'),
+      url('../fonts/MuseoSansCyrl-500/MuseoSansCyrl-500.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "MuseoSansCyrl-900";
+  src: url('../fonts/MuseoSansCyrl-900/MuseoSansCyrl-900.eot');
+  src: url('../fonts/MuseoSansCyrl-900/MuseoSansCyrl-900.woff2') format('woff2'),
+      url('../fonts/MuseoSansCyrl-900/MuseoSansCyrl-900.woff') format('woff'),
+      url('../fonts/MuseoSansCyrl-900/MuseoSansCyrl-900.ttf') format('truetype'),
+      url('../fonts/MuseoSansCyrl-900/MuseoSansCyrl-900.svg#WorkSans-SemiBold') format('svg'),
+      url('../fonts/MuseoSansCyrl-900/MuseoSansCyrl-900.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Univers Medium";
+  src: url('../fonts/Univers Medium/Univers Medium.eot');
+  src: url('../fonts/Univers Medium/Univers Medium.woff2') format('woff2'),
+      url('../fonts/Univers Medium/Univers Medium.woff') format('woff'),
+      url('../fonts/Univers Medium/Univers Medium.ttf') format('truetype'),
+      url('../fonts/Univers Medium/Univers Medium.svg#WorkSans-SemiBold') format('svg'),
+      url('../fonts/Univers Medium/Univers Medium.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
